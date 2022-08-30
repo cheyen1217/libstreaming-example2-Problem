@@ -12,3 +12,5 @@ app 的ip改成電腦的 (140.X.X.X)
 ![image](https://user-images.githubusercontent.com/47856036/187247224-6f73d26b-43bd-4212-b1da-cb89b32083f1.png)
 ![image](https://user-images.githubusercontent.com/47856036/187247253-2c7b8c08-3afe-4d62-ac8b-608b7272b59d.png)
 圖片是用手機模擬器跑  再用電腦開VLC 開sdp 看直播
+
+如果要讓yolov7的程式跑 串流 選http 然後 選android HD  yolov7 才讀的到(試很多種 目前這種可以) 有時候還是讀不到 android studio 要重開
